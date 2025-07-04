@@ -12,16 +12,4 @@ test
 test
 trser
 st
-sdg
-sdvg
-xcv
-xcgxd
-gx
-gx
-gdf
-gdfg
-dfg
-dfg
-gs
-gsd
-g
+s
