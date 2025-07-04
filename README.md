@@ -9,8 +9,6 @@
 
 <h3 align="center">My First Lab About C/C++</h3>
 
-<hr/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="skills icons"/>
 </div>
