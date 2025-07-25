@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Uxsx/Desktop/ENGCC304/Lab1",
-      "program": "c:/Users/Uxsx/Desktop/ENGCC304/Lab1/build/Debug/outDebug",
+      "cwd": "c:/Users/Uxsx/Desktop/ENGCC304/Lab4",
+      "program": "c:/Users/Uxsx/Desktop/ENGCC304/Lab4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
