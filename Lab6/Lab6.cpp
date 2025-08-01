@@ -2,9 +2,15 @@
 
 int main() {
     int N ;
+    int checkword ; 
     
     printf("Enter value: ") ;
-    scanf("%d", &N) ;
+    checkword =  scanf("%d", &N) ;
+
+    if (checkword == 0) {
+        printf("Invalid input. Please enter integer.");
+        return 1 ;
+    }
 
     printf("Series: ") ;
 
