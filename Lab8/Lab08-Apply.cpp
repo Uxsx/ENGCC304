@@ -47,5 +47,5 @@ int main() {
     printf("Special Bonus: %.0f THB\n", specialbonus) ;
     printf("Net Salary: %.0f THB\n", netsalary) ;
 
-    return 0;
+    return 0 ;
 }
