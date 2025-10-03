@@ -5,8 +5,8 @@ int main() {
     int year ;
     int project ;
     int basesalary = 0 ;
-    double bonus = 0.0 ;
-    double specialbonus = 0.0 ;
+    float bonus = 0.0 ;
+    float specialbonus = 0.0 ;
 
     printf("Position (1 = Junior Programmer, 2 = Mid-Level Programmer, 3 = Senior Programmer): ") ;
     scanf("%d", &position) ;
@@ -16,7 +16,7 @@ int main() {
     scanf("%d", &project) ;
 
     switch (position) {
-        case 1: basesalary = 20000; break ; 
+        case 1: basesalary = 20000; break ;                                                                                                                                                                                                                                                                                                                                                                                                                     
         case 2: basesalary = 35000; break ; 
         case 3: basesalary = 50000; break ; 
         default:
@@ -40,7 +40,7 @@ int main() {
         specialbonus = 0.0 ;
     }
 
-    double netsalary = basesalary + bonus + specialbonus ;
+    float netsalary = basesalary + bonus + specialbonus ;
 
     printf("Base Salary: %d THB\n", basesalary) ;
     printf("Experience Bonus: %.0f THB\n", bonus) ;

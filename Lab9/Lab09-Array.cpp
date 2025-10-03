@@ -12,37 +12,30 @@ int main() {
         scanf("%d", &arr[i]) ;
     }
 
-    // แสดงผล Index
     printf("Index: ") ;
     for (int i = 0; i < n; i++) {
         printf("%3d", i) ;
     }
     printf("\n") ;
 
-    // แสดงผล Array (จำนวนเฉพาะหรือ #)
     printf("Array:") ;
     for (int i = 0; i < n; i++) {
         int num = arr[i] ;
-        int isPrime = 1 ; 
+        int isPrime = true; 
 
-        if (num < 2) {
-            isPrime = 0 ;
-        } else {
-            for (int j = 2; j * j <= num; j++) {
-                if (num % j == 0) {
-                    isPrime = 0 ;
-                    break ;
-                }
+        for (int j = 2; j * j <= num; j++) {
+            if (num % j == 0) {
+                isPrime = false ;   
+                break;  
             }
         }
 
-        if (isPrime) {
+        if (isPrime == true) {
             printf(" %3d", num) ;
         } else {
-            printf("  #") ;
+            printf(" #") ;
         }
     }
-    printf("\n") ;
 
     return 0 ;
 }
