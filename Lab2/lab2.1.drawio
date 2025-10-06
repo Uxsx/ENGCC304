@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
   <diagram name="Page-1" id="RbMmG9RkvynbeP50xYJT">
-    <mxGraphModel dx="2182" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uiAiVuAlV3e7LGUHGTL--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--1" target="uiAiVuAlV3e7LGUHGTL--16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uiAiVuAlV3e7LGUHGTL--1" value="เริ่ม" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="10" width="80" height="50" as="geometry" />
+          <mxGeometry x="360" y="50" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uiAiVuAlV3e7LGUHGTL--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--3" target="uiAiVuAlV3e7LGUHGTL--4">
           <mxGeometry relative="1" as="geometry" />
@@ -76,11 +73,10 @@
         <mxCell id="uiAiVuAlV3e7LGUHGTL--15" value="เปิดเตาแก๊สติด&lt;div&gt;ไหม&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1040" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="uiAiVuAlV3e7LGUHGTL--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--16" target="uiAiVuAlV3e7LGUHGTL--3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uiAiVuAlV3e7LGUHGTL--16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="20" height="20" as="geometry" />
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="uiAiVuAlV3e7LGUHGTL--3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="100" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uiAiVuAlV3e7LGUHGTL--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.114;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--23" target="uiAiVuAlV3e7LGUHGTL--27">
           <mxGeometry relative="1" as="geometry">
