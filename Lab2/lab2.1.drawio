@@ -1,0 +1,222 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
+  <diagram name="Page-1" id="RbMmG9RkvynbeP50xYJT">
+    <mxGraphModel dx="2182" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--1" target="uiAiVuAlV3e7LGUHGTL--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--1" value="เริ่ม" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--3" target="uiAiVuAlV3e7LGUHGTL--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--3" value="&lt;div&gt;ตรวจสอบวัตถุดิบและอุปกรณ์&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--4" value="&lt;div&gt;เตรียมวัตถุดิบ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--5" target="uiAiVuAlV3e7LGUHGTL--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--5" value="&lt;div&gt;ล้างใบกะเพราให้สะอาด&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--6" target="uiAiVuAlV3e7LGUHGTL--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--6" value="&lt;div&gt;ปอกกระเทียม–พริก แล้วโขลกรวมกัน&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--7" target="uiAiVuAlV3e7LGUHGTL--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--7" value="&lt;div&gt;หั่นหมูกรอบเป็นชิ้นพอดีคำ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--8" target="uiAiVuAlV3e7LGUHGTL--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--8" value="&lt;div&gt;ปอกไข่เยี่ยวม้าและผ่าครึ่ง&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--9" target="uiAiVuAlV3e7LGUHGTL--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--9" value="&lt;div&gt;เตรียมข้าวสวยไว้พร้อม&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="590" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--10" target="uiAiVuAlV3e7LGUHGTL--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--10" value="&lt;div&gt;เตรียมอุปกรณ์ครัว&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="670" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--11" target="uiAiVuAlV3e7LGUHGTL--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--11" value="&lt;div&gt;กระทะ, ตะหลิว, เขียง, มีด&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="750" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--12" target="uiAiVuAlV3e7LGUHGTL--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--12" value="&lt;div&gt;จานสำหรับเสิร์ฟ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="830" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--15" target="uiAiVuAlV3e7LGUHGTL--23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--15" target="uiAiVuAlV3e7LGUHGTL--37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--15" value="เปิดเตาแก๊สติด&lt;div&gt;ไหม&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1040" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--16" target="uiAiVuAlV3e7LGUHGTL--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.114;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--23" target="uiAiVuAlV3e7LGUHGTL--27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="916" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--23" target="uiAiVuAlV3e7LGUHGTL--33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609.998253968254" y="1085.0285714285715" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--23" value="เช็คว่ามีแก๊สไหม" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1040" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--25" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1060" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--26" target="uiAiVuAlV3e7LGUHGTL--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--26" value="เปิดเตาแก๊ส" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="960" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--27" target="uiAiVuAlV3e7LGUHGTL--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="910" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1000" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.8;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uiAiVuAlV3e7LGUHGTL--27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.0010678118653" y="912.9289321881347" as="targetPoint" />
+            <mxPoint x="697.93" y="1060" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="698" y="900" />
+              <mxPoint x="425" y="900" />
+              <mxPoint x="425" y="909" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--33" value="ซื้อแก๊ส" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640.03" y="1060" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--36" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1048" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--37" target="uiAiVuAlV3e7LGUHGTL--40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--37" value="&lt;div&gt;รอจนน้ำมันร้อน&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--40" target="uiAiVuAlV3e7LGUHGTL--41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--40" value="&lt;div&gt;ใส่พริก–กระเทียมที่โขลกไว้ลงผัด&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--41" target="uiAiVuAlV3e7LGUHGTL--43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--41" value="&lt;div&gt;เมื่อมีกลิ่นหอม → ใส่หมูกรอบ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--42" target="uiAiVuAlV3e7LGUHGTL--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--42" value="&lt;div&gt;ปรุงรส (น้ำปลา, ซีอิ๊วขาว, น้ำตาล, ซอสปรุงรส)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--43" value="&lt;div&gt;ผัดให้หมูกรอบร้อนทั่ว&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--44" target="uiAiVuAlV3e7LGUHGTL--45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--44" value="&lt;div&gt;ใส่ใบกะเพรา → ผัดเร็ว ๆ ให้เข้ากัน&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--45" value="&lt;div&gt;ปิดเตา&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1640" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--46" value="&lt;div&gt;ตักข้าวสวยใส่จาน&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1720" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--47" target="uiAiVuAlV3e7LGUHGTL--48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--47" value="&lt;div&gt;วางหมูกรอบกะเพราด้านบน&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1800" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--48" target="uiAiVuAlV3e7LGUHGTL--49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--48" value="&lt;div&gt;นำไข่เยี่ยวม้าวางเคียงข้างข้าวกะเพราหมูกรอบ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1870" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--49" target="uiAiVuAlV3e7LGUHGTL--51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--49" value="&lt;div&gt;ตรวจสอบความเรียบร้อยของอาหาร&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1940" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--51" target="uiAiVuAlV3e7LGUHGTL--52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--51" value="เสิร์ฟพร้อมช้อนส้อม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2010" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--52" value="จบ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2090" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--46" target="uiAiVuAlV3e7LGUHGTL--47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=-0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--45" target="uiAiVuAlV3e7LGUHGTL--46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--65" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1128" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiAiVuAlV3e7LGUHGTL--75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uiAiVuAlV3e7LGUHGTL--4" target="uiAiVuAlV3e7LGUHGTL--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
