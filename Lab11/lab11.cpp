@@ -1,40 +1,34 @@
 #include <stdio.h>
-#include <math.h> 
+#include <math.h>
 
 int isArmstrong(int num) {
-    int original = num ;
-    int sum = 0 ;
-    int digits = 0 ;
+    int original = num;
+    int sum = 0;
+    int digits = 0;
 
-    int temp = num;
-    while (temp > 0) {
-        digits++ ;
-        temp /= 10 ;
+    // หาจำนวนหลัก
+    for (int n = num; n > 0; n /= 10)
+        digits++;
+
+    // คำนวณผลรวมกำลังของแต่ละหลัก
+    for (; num > 0; num /= 10) {
+        int digit = num % 10;
+        sum += pow(digit, digits);
     }
 
-    temp = num;
-    while (temp > 0) {
-        int digit = temp % 10 ;
-        sum += pow(digit, digits) ;
-        temp /= 10 ;
-    }
-
-    if (sum == original)
-        return 1 ;
-    else
-        return 0 ;
+    return (sum == original);
 }
 
 int main() {
     int num;
 
-    printf("Enter Number:\n") ;
-    scanf("%d", &num) ;
+    printf("Enter Number:\n");
+    scanf("%d", &num);
 
     if (isArmstrong(num))
-        printf("Pass.\n") ;
+        printf("Pass.\n");
     else
-        printf("Not Pass.\n") ;
+        printf("Not Pass.\n");
 
-    return 0 ;
+    return 0;
 }
